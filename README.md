@@ -15,5 +15,5 @@
 <p align="center">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com)](mailto:orijoon98@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hkjoon/)](https://www.instagram.com/_hkjoon/) 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 </p>

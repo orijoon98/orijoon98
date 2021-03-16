@@ -5,7 +5,7 @@
 <p align="center">Techs that I've used at least once</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white")/></a>&nbsp ![]("https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white") ![]("https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white") ![]("https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white") ![]("https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white") ![]("https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white") ![]("https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white") ![]("https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white")
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white")/></a>&nbsp <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"></a>&nbsp <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>&nbsp <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>&nbsp <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>&nbsp <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>&nbsp <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></a>&nbsp
 </p>
 
 <p></p>
@@ -14,5 +14,5 @@
 
 <p align="center">👽 Me👽</p>
 <p align="center">
-<a href="https://www.instagram.com/_hkjoon/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hkjoon/"/></a> <a href="orijoon98@gmail.com"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white&link=orijoon98@gmail.com"/></a>
+<a href="https://www.instagram.com/_hkjoon/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hkjoon/"/></a>&nbsp <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>&nbsp
 </p>

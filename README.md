@@ -2,13 +2,13 @@
 <a href="https://www.instagram.com/_hkjoon/"><img src="https://img.shields.io/badge/__hkjoon-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hkjoon/"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>
 
-#### 👋 안녕하세요. 소통하는 개발자 공혁준입니다. 
+#### 👋 &nbsp;안녕하세요. 소통하는 개발자 공혁준입니다. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orijoon98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=orijoon98)](https://solved.ac/orijoon98)
 
-#### ⚙️ Skills
+#### ⚙️ &nbsp;Skills
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;

@@ -24,5 +24,4 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-sqaure&logo=Redis&logoColor=white">&nbsp;
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-sqaure&logo=Git&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Github-181717?style=flat-sqaure&logo=Github&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=Docker&logoColor=white">&nbsp;

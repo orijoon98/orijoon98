@@ -2,7 +2,7 @@
 <a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Joon Kong-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@orijoon98"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>
 
-#### 👋 &nbsp;안녕하세요. 소통하는 개발자 공혁준입니다. 
+#### 👋 &nbsp;안녕하세요. 몰입을 즐기는 개발자, 공혁준입니다. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orijoon98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac

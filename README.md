@@ -1,4 +1,4 @@
-<a href="https://www.notion.so/hyeokjoon/Hyeokjoon-Kong-18ffc21d2fa24765aef62b9aae730e55"><img src="https://img.shields.io/badge/Hyeokjoon-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyeokjoon/-18ffc21d2fa24765aef62b9aae730e55"/></a>&nbsp;
+<a href="https://www.notion.so/hyeokjoon/Hyeokjoon-Kong-18ffc21d2fa24765aef62b9aae730e55"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyeokjoon/-18ffc21d2fa24765aef62b9aae730e55"/></a>&nbsp;
 <a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Joon Kong-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@orijoon98"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>
 

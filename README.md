@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forijoon98&count_bg=%23001AFB&title_bg=%235C93FB&icon=&icon_color=%23D5D5D5&title=hits&edge_flat=false"/></a>
 
->  Hyeok Joon Kong   
+>  HyeokJoon Kong   
 > Seoul National University of Science and Technology
 
 #### Interest
@@ -32,7 +32,7 @@
 #### Link
 
 <a href="https://www.notion.so/hyeokjoon/Hyeokjoon-Kong-18ffc21d2fa24765aef62b9aae730e55"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyeokjoon/-18ffc21d2fa24765aef62b9aae730e55"/></a>&nbsp;
-<a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Joon Kong-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@orijoon98"/></a>&nbsp;
+<a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@orijoon98"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>
 
 [![Solved.ac

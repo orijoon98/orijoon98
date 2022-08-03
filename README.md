@@ -18,6 +18,7 @@
 
 <ul>
 
+  <li><a href="https://github.com/Ticco-Official/TICCO_Server"><b>TICCO</b></a> - 영화, 뮤지컬, 페스티벌, 전시회 등 다양한 공연을 기록하는 서비스 (사이드 프로젝트)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">&nbsp;
   <li><a href="https://github.com/Photory-Official/photory-server"><b>Photory</b></a> - 사진으로 함께 쓰는 우리들의 이야기 (사이드 프로젝트)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">&nbsp;
   <li><a href="https://github.com/TeamHous/Hous-Server"><b>Hous</b></a> - 룸메이트와 함께하는 슬기로운 한집 생활 (30th SOPT Appjam)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <li><a href="https://github.com/Spinoza-Project/Spinoza_Server"><b>Planti</b></a> - 내 손안의 작은 과수원, 농가-고객 매칭 플랫폼 (제 2회 경상북도 공공데이터 활용 창업경진대회)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>

@@ -25,8 +25,8 @@
   <li><a href="https://github.com/SOPKATHON-GROUP11/Nangman-Server"><b>푸릇푸릇</b></a> - 전하지 못했던 고맙고 미안한 마음을 과일로 기록하는 앱 (30th SOPT Sopkathon)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <li><a href="https://github.com/GDSC-Homework/Homework_Back"><b>홈워크</b></a> - 가족 내 성차별 해결을 위한 가사분담 앱 (GDSC KR Winter Hackathon)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">&nbsp;
 	<li><a href="https://github.com/Monothon-1th/GreenChallenge_Back"><b>그린챌</b></a> - 선한 영향력으로 지구를 살리는 친환경 챌린지 앱 (제 1회 모노톤)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">&nbsp;
-  <li><a href="https://github.com/Hackathon-WinWin/WinWin_Back"><b>WinWin</b></a> - 호텔 로비의 남는 공간에 아티스트들의 작품을 전시할 수 있도록
-호텔과 아티스트를 연결해주는 플랫폼 (해, 커리어 해커톤)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <li><a href="https://github.com/Hackathon-WinWin/WinWin_Back"><b>WinWin</b></a> - 호텔 로비에 나의 작품을 전시하다, 
+호텔-아티스트 매칭 플랫폼 (해, 커리어 해커톤)</a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 	
 </ul>
 

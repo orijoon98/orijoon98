@@ -35,5 +35,7 @@
 <a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@orijoon98"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orijoon98&show_icons=true&theme=light&hide=stars)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=orijoon98)](https://solved.ac/orijoon98)

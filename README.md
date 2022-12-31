@@ -43,7 +43,7 @@
 #### Link
 
 <a href="https://hyeokjoon.notion.site/2d87fb6525274d86b3008887d53fdb55"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hyeokjoon.notion.site/2d87fb6525274d86b3008887d53fdb55"/></a>&nbsp;
-<a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@orijoon98"/></a>&nbsp;
+<a href="https://velog.io/@orijoon98/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://devjoon.tistory.com"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orijoon98&show_icons=true&theme=light&hide=stars)

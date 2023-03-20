@@ -43,6 +43,6 @@
 
 #### Link
 
-<a href="https://hyeokjoon.notion.site/2d87fb6525274d86b3008887d53fdb55"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hyeokjoon.notion.site/2d87fb6525274d86b3008887d53fdb55"/></a>&nbsp;
+<a href="https://hyeokjoon.notion.site/Hyeokjoon-Kong-e1ef287d8e2d40d39847274931914a3e"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hyeokjoon.notion.site/Hyeokjoon-Kong-e1ef287d8e2d40d39847274931914a3e"/></a>&nbsp;
 <a href="https://devjoon.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://devjoon.tistory.com"/></a>&nbsp;
 <a href="mailto:orijoon98@gmail.com"><img src="https://img.shields.io/badge/orijoon98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijoon98@gmail.com"/></a>

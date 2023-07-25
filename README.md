@@ -23,6 +23,7 @@
 #### Project
 
 <ul>
+  <li><a href="https://github.com/gosopt-LionHeart/LionHeart-Server-Appjam"><b>라이온하트</b></a> - 하루 10분, 좋은 아빠가 되는 방법 (32th SOPT Appjam)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">
   <li><a href="https://github.com/SSG-sausage"><b>소시지닷컴</b></a> - 함께 장보기 장바구니 고도화 및 쓱총무 기능 구현 (SSG.COM Tech Rookie Internship)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">
   <li><a href="https://github.com/KU-Summer-Hackathon/server"><b>Do-re</b></a> - 이웃 과의 소통을 Re-do, Do-re (고려대학교 여름 해커톤)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">
   <li><a href="https://github.com/Ticco-Official/TICCO_Server"><b>TICCO</b></a> - 영화, 뮤지컬, 페스티벌, 전시회 등 다양한 공연을 기록하는 서비스 (사이드 프로젝트)</a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqaure&logo=Spring&logoColor=white">
